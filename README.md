@@ -59,3 +59,6 @@ Chris Vickery is a security type with expertise in uncovering S3 problems.
 https://threatpost.com/chris-vickery-on-amazon-s3-data-leaks/128120/
 
 Listen to the [S3 Security Podcast](https://arstechnica.com/information-technology/2017/05/defense-contractor-stored-intelligence-data-in-amazon-cloud-unprotected/)
+
+Rhino labs specialise in Cloud security testing, this is some of the methodology used to identify S3 buckets. There are also tools out there that automate this process. 
+https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/
